@@ -1,5 +1,7 @@
 # DEEPSCALER_PROJEACTS
 
+First, Download Ollama, And Then Pull Deepscaler 
+
 
   Project 1: AI-Powered Math Solver   
   
