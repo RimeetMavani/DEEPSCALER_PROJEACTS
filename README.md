@@ -23,6 +23,8 @@ Project 2: AI Chatbot using DeepScaleR
       
       Step 1: Building a Chatbot for General-Purpose Conversation
       
-      Step 2: Deploying DeepScaleR in an API
+      Step 2: Deploying DeepScaleR in an API  
+
+            uvicorn chat_bot_api.py:app --host 0.0.0.0 --port 8000
       
       Step 3: Building a Web-Based Chatbot UI with Gradio
